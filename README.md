@@ -9,4 +9,4 @@ Uitleg bij de bestanden:
 * **Omschrijving_maatregelen.docx** : Omschrijving van de subsidie categorieen, afkomstig van de RVO
 * **postcodes.csv** : dataset gebruikt om het woonplaats, gemeente en provincie toe te voegen aan de data
 
-Deze repository is gepubliceerd als onderdeel van het [Hier belanden de Europese landbouwmiljarden in Nederland](https://www.ftm.nl/artikelen/glb-miljarden-voor-de-boer-wie-krijgt-wat-van-brussel) artikel
+Deze repository is gepubliceerd als onderdeel van het [Landbouwmiljonairs en minimumlonen: Europees subsidiebeleid vergroot ongelijkheid onder boeren ](https://www.ftm.nl/artikelen/glb-miljarden-voor-de-boer-wie-krijgt-wat-van-brussel) artikel
