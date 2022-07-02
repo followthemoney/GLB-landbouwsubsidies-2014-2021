@@ -1,6 +1,6 @@
 # GLB Landbouwsubsidies 2014-2021
 
-Deze dataset bevat gegevens over betaligen van Landbouwsubsidies aan Nederlandse bedrijven. Deze data wordt jaarlijks gepubliceerd door de RVO. Data tot 2017 zijn afkomstig van [farmsubsidy.org](https://data.farmsubsidy.org/cleaned/). Data vanaf 2018 zijn rechtstreeks van de RVO website gescraped.
+Deze dataset bevat gegevens over betalingen van Landbouwsubsidies aan Nederlandse bedrijven. Deze data wordt jaarlijks gepubliceerd door de RVO. Data tot 2017 zijn afkomstig van [farmsubsidy.org](https://data.farmsubsidy.org/cleaned/). Data vanaf 2018 zijn rechtstreeks van de RVO website gescraped.
 
 Uitleg bij de bestanden:
 
